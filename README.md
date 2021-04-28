@@ -1,4 +1,5 @@
-# LIVE SITE - https://arshekas.github.io/monsters-rolodex/
+# Live Site - 
+https://arshekas.github.io/monsters-rolodex/
 
 # Getting Started with Create React App
 
